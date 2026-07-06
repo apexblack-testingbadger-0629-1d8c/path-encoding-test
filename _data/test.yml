@@ -1,0 +1,7 @@
+# Jekyll _data file
+test: value
+# YAML deserialization test
+nested:
+  key: !ruby/object:OpenStruct
+    table:
+      :foo: bar
