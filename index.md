@@ -1,3 +1,5 @@
-# Test Page
+# CSV Test
 
-Path encoding test site
+[View CSV](formula-test.csv)
+
+CSV content should render with GitHub's built-in viewer.
